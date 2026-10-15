@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="домашка/домашка.vcxproj" Id="c12d723b-618e-4408-be6a-feb409c4ec08" />
+</Solution>
